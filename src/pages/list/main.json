@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "面试列表",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "backgroundColor": "#fff",
+  "onReachBottomDistance": 0,
+  "usingComponents": {
+    "van-toast": "/static/vant/toast/index"
+  }
+}

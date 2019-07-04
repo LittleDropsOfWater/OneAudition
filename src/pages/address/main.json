@@ -1,0 +1,7 @@
+{
+	"navigationBarTitleText": "选择面试地址",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle":"dark",
+	"backgroundColor": "#fff",
+	"onReachBottomDistance":150
+}
