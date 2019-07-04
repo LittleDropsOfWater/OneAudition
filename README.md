@@ -1,4 +1,4 @@
-# sign
+﻿# sign
 
 > 高速规划面试行程
 
@@ -67,4 +67,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
   - [ ] 画圈 map里的方法
 - [ ] 优化
   - [ ] 组件拆分
-  - [ ] vuex拆分
+  - [ ] vuex拆分 - [ ] 提取工具函数
