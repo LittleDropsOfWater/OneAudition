@@ -60,11 +60,11 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 - [ ] 面试详情页面
   - [x] 渲染信息 
   - [x] 取消提醒
-  - [ ] 去打卡,跳到打卡页面
-  - [ ] 放弃面试,带确认框
-- [ ] 打卡
-  - [ ] 计算距离
-  - [ ] 画圈 map里的方法
-- [ ] 优化
+  - [x] 去打卡,跳到打卡页面
+  - [x] 放弃面试,带确认框
+- [x] 打卡
+  - [x] 计算距离
+  - [x] 画圈 map里的方法
+- [x] 优化
   - [ ] 组件拆分
-  - [ ] vuex拆分 - [ ] 提取工具函数
+  - [x] vuex拆分 - [ ] 提取工具函数
